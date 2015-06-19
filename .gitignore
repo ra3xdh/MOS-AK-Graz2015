@@ -1,0 +1,11 @@
+Qucs-MOS-AK-Sep2015.pdf
+*.toc
+*.aux
+*.blg
+*.log
+*.out
+*.backup
+*.snm
+*.nav
+*~
+
